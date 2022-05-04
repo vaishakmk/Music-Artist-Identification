@@ -4,8 +4,8 @@ Objective : To identify the artist of a Music track based on the voice and other
 
 Dataset Link : https://drive.google.com/drive/folders/1U80SZebYfnopNrvc0PjC77QiGlHsX5ty?usp=sharing
 
-Json Link : https://drive.google.com/file/d/11HHs35f7KXTJ73ZzR-B84p8PTxRQQNEd/view?usp=sharing
-This Json contains just 2 classes as of now. We need to add more classes and update thejson accordingly.
+Json Link : https://drive.google.com/file/d/1xCquZdqU8L5DDK2axIn9AxwjUAx_zEPA/view?usp=sharing
+This Json contains just 5 classes as of now. We may need to add more classes and update the json accordingly.
 
 All needed explanation and code can be found in the below links
 Youtube Link : https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf
