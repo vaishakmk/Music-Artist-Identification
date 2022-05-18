@@ -7,7 +7,7 @@ Dataset Link : https://drive.google.com/drive/folders/1U80SZebYfnopNrvc0PjC77QiG
 Json Link : https://drive.google.com/file/d/1xCquZdqU8L5DDK2axIn9AxwjUAx_zEPA/view?usp=sharing
 This Json contains just 5 classes as of now. We may need to add more classes and update the json accordingly.
 
-All needed explanation and code can be found in the below links
+All needed explanation can be found in the below links
 Youtube Link : https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf
 Github Link : https://github.com/musikalkemist/DeepLearningForAudioWithPython
 
